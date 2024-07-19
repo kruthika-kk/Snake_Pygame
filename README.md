@@ -1,11 +1,11 @@
 Snake Game
 
-#Goal
+Goal
 
 Use the arrow keys (up, down, right, and left) to move the snake.
 Note: If you touch the edge, the game is over.
 
-##How to Play
+How to Play
 
     Clone this repository to your local machine.
     Open a terminal and navigate to the project directory.
